@@ -129,6 +129,9 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 </tr>
 </table>
 
+### 🏆 Contributions This Year
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=depedropane&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical)
+
 </div>
 
 ---
@@ -151,10 +154,17 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 ---
 
-## 🤝 Let's Connect! 
-<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/depedropane) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/depedroo_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:depedrompane@gmail.com) 
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/depedropane)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/depedroo_)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:depedrompane@gmail.com)
+
 </div>
---- 
+
+---
 
 <div align="center">
 
