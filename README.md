@@ -107,17 +107,31 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 ## 📊 GitHub Analytics
 
-[](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-[](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-
-💻 Weekly Development Breakdown
 <div align="center">
-<!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=depedropane&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
-<!--END_SECTION:waka-->
+
+<table>
+<tr>
+<td>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+
+</td>
+<td>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
+
+</td>
+<td>
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -130,13 +144,10 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 ---
 
 ## 🎯 Current Focus
-
-diff
-+ 🔭 Working on campus projects and personal fullstack apps  
-+ 🌱 Learning deeper about databases, backend logic, and clean code practices  
-+ 👯 Open to collaborate on web development projects (especially Laravel & React)  
-+ 💬 Ask me about structuring projects, database design, or solving tricky bugs  
-
+- 🔭 Working on campus projects and personal fullstack apps  
+- 🌱 Learning deeper about databases, backend logic, and clean code practices  
+- 👯 Open to collaborate on web development projects (especially Laravel & React)  
+- 💬 Ask me about structuring projects, database design, or solving tricky bugs  
 
 ---
 
@@ -144,8 +155,8 @@ diff
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/depedropane)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/depedroo_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/depedropane)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/depedroo_)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:depedrompane@gmail.com)
 
 </div>
@@ -157,7 +168,6 @@ diff
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ### ⭐ Show some love by starring some repositories!
 
