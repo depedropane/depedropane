@@ -107,19 +107,21 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+<div align="center">![](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
+<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-## 🏆 GitHub Trophies
-
+🎨 Coding Activity
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=depedropane&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=depedropane&custom_title=Depedro's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
+💻 Weekly Development Breakdown
+<div align="center">
+<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=depedropane&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
+<!--END_SECTION:waka-->
+</div>
 
 ## 📈 Contribution Graph
 
