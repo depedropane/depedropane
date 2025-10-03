@@ -37,7 +37,8 @@
 - 🔥 Contributing to open-source
 
 ### ⚡ Fun Fact
-I can spend hours debugging and realize the problem was a missing semicolon 😅
+*"Just 10 minutes to fix this bug..."*  
+**2 hours later:** *Still debugging* 😅
 
 </td>
 </tr>
@@ -73,6 +74,7 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -107,12 +109,16 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=depedropane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/depedropane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=depedropane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+</a>
+
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -140,10 +146,11 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 ## 🎯 Current Focus
 
 ```diff
-+ 🔭 Working on campus projects and personal fullstack apps  
-+ 🌱 Learning deeper about databases, backend logic, and clean code practices  
-+ 👯 Open to collaborate on web development projects (especially Laravel & React)  
-+ 💬 Ask me about structuring projects, database design, or solving tricky bugs  
++ 🔭 Working on scalable web applications
++ 🌱 Learning System Design & Cloud Architecture
++ 👯 Open to collaborate on innovative projects
++ 💬 Ask me about React, Laravel, or Fullstack Development
++ ⚡ Fun fact: Debugging is like being a detective in a crime movie where you're also the murderer
 ```
 
 ---
@@ -154,7 +161,7 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/depedropane)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/depedroo_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:depedrompane@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 </div>
 
@@ -166,7 +173,14 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/depedropane/depedropane/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
 
 ### ⭐ Show some love by starring some repositories!
+
+**Made with ❤️ and lots of ☕**
 
 </div>
