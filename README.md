@@ -25,7 +25,7 @@
 - 🌐 Transform ideas into *real digital solutions*
 
 ### 📍 Based In
-🇮🇩 *Balige, North Sumatra, Indonesia*
+🇮🇩 *Laguboti, North Sumatra, Indonesia*
 
 </td>
 <td width="50%">
@@ -107,14 +107,10 @@ I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 ## 📊 GitHub Analytics
 
-<div align="center">![](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
-<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+[](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+[](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-🎨 Coding Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=depedropane&custom_title=Depedro's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 💻 Weekly Development Breakdown
 <div align="center">
