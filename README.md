@@ -37,8 +37,7 @@
 - 🔥 Contributing to open-source
 
 ### ⚡ Fun Fact
-*"Just 10 minutes to fix this bug..."*  
-**2 hours later:** *Still debugging* 😅
+I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 </td>
 </tr>
@@ -141,11 +140,10 @@
 ## 🎯 Current Focus
 
 ```diff
-+ 🔭 Working on scalable web applications
-+ 🌱 Learning System Design & Cloud Architecture
-+ 👯 Open to collaborate on innovative projects
-+ 💬 Ask me about React, Laravel, or Fullstack Development
-+ ⚡ Fun fact: I can spend hours debugging and realize the problem was a missing semicolon 😅
++ 🔭 Working on campus projects and personal fullstack apps  
++ 🌱 Learning deeper about databases, backend logic, and clean code practices  
++ 👯 Open to collaborate on web development projects (especially Laravel & React)  
++ 💬 Ask me about structuring projects, database design, or solving tricky bugs  
 ```
 
 ---
@@ -168,14 +166,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/depedropane/depedropane/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### ⭐ Show some love by starring some repositories!
-
-**Made with ❤️ and lots of ☕**
 
 </div>
