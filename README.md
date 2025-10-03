@@ -19,26 +19,25 @@
 <td width="50%">
 
 ### 🚀 What I Do
-- 💻 Build **scalable web applications** from frontend to backend
-- 🎨 Create **user-friendly interfaces** with modern design
-- 🔧 Solve complex problems with **clean, efficient code**
-- 🌐 Transform ideas into **real digital solutions**
+- 💻 Build *scalable web applications* from frontend to backend
+- 🎨 Create *user-friendly interfaces* with modern design
+- 🔧 Solve complex problems with *clean, efficient code*
+- 🌐 Transform ideas into *real digital solutions*
 
 ### 📍 Based In
-🇮🇩 **Balige, North Sumatra, Indonesia**
+🇮🇩 *Balige, North Sumatra, Indonesia*
 
 </td>
 <td width="50%">
 
 ### 🎯 Current Focus
-- 📚 Deepening knowledge in **System Design**
-- ☁️ Exploring **Cloud Deployment** strategies
-- 🚀 Building projects with **React + Laravel**
+- 📚 Deepening knowledge in *System Design*
+- ☁ Exploring *Cloud Deployment* strategies
+- 🚀 Building projects with *React + Laravel*
 - 🔥 Contributing to open-source
 
 ### ⚡ Fun Fact
-*"Just 10 minutes to fix this bug..."*  
-**2 hours later:** *Still debugging* 😅
+I can spend hours debugging and realize the problem was a missing semicolon 😅
 
 </td>
 </tr>
@@ -47,13 +46,13 @@
 <div align="center">
 
 ### 💡 Mission Statement
-**Transforming innovative ideas into scalable digital solutions that make a real impact**
+*Transforming innovative ideas into scalable digital solutions that make a real impact*
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠 Tech Arsenal
 
 <table align="center">
 <tr>
@@ -73,8 +72,8 @@
 #### ⚡ Backend Power
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -84,7 +83,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🗄️ Database Expertise
+#### 🗄 Database Expertise
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -108,20 +107,9 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/depedropane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=depedropane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-</a>
-
-</div>
-
-<div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=tokyonight&hide_border=true" />
-</div>
-
----
+![](https://github-readme-stats.vercel.app/api?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=depedropane&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=depedropane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ## 🏆 GitHub Trophies
 
@@ -145,13 +133,12 @@
 
 ## 🎯 Current Focus
 
-```diff
-+ 🔭 Working on scalable web applications
-+ 🌱 Learning System Design & Cloud Architecture
-+ 👯 Open to collaborate on innovative projects
-+ 💬 Ask me about React, Laravel, or Fullstack Development
-+ ⚡ Fun fact: Debugging is like being a detective in a crime movie where you're also the murderer
-```
+diff
++ 🔭 Working on campus projects and personal fullstack apps  
++ 🌱 Learning deeper about databases, backend logic, and clean code practices  
++ 👯 Open to collaborate on web development projects (especially Laravel & React)  
++ 💬 Ask me about structuring projects, database design, or solving tricky bugs  
+
 
 ---
 
@@ -161,7 +148,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/depedropane)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/depedroo_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:depedrompane@gmail.com)
 
 </div>
 
@@ -173,14 +160,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/depedropane/depedropane/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### ⭐ Show some love by starring some repositories!
-
-**Made with ❤️ and lots of ☕**
 
 </div>
