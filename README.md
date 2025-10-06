@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Depedro Pane
 
-### 🚀 Fullstack Developer | 💡 Problem Solver | 🎯 Lifelong Learner
+### 🚀 Software Developer | 💡 Problem Solver | 🎯 Lifelong Learner
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Building+Scalable+Solutions;Transforming+Ideas+into+Reality;Always+Learning+New+Things" alt="Typing SVG" />
 
