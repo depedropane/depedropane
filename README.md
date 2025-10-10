@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Depedro Pane
+# 👋 Hi there, I'm De Pedro Pane
 
 ### 🚀 Software Developer | 💡 Problem Solver | 🎯 Lifelong Learner
 
